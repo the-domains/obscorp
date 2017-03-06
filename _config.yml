@@ -1,0 +1,62 @@
+layout_spectrum: 0.45272186800819075
+typography_spectrum: 0.619092555012517
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.744421996884048
+  lightness: 0.5763912344123652
+  saturation: 0.6559410296173047
+  rhythmicContrast: 0.8421957933561562
+name: obscorp
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Products
+    id: ac422d95-0e01-4ba2-a20f-0eb9e8531d2a
+    type: content
+title: OBScorp Technologies
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://static.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg">
+    src: >-
+      https://static.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg
+    metadata:
+      datePublished: null
+      isBasedOnUrl: >-
+        https://static.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://static.pexels.com'
+        name: Pexels
+        favicon: null
+        domain: static.pexels.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Software.Made easy.
+purpose:
+  - type: external
+    url: >-
+      https://web.facebook.com/OBScorp-technologies-965264683608648/?ref=aymt_homepage_panel
+    label: Facebook
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b2e01c-bdf5-40fa-9065-9f5185c0414d.png
